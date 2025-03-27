@@ -1,4 +1,4 @@
-package SistAcad;
+package Entities;
 import java.util.*;
 class Inscripcion {
     Date fechaInscripcion;

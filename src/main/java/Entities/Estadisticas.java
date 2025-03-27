@@ -1,5 +1,5 @@
-package SistAcad;
-import java.util.*;
+package Entities;
+
 class Estadisticas {
     float promedioGeneral;
     float asistenciaPromedio;
